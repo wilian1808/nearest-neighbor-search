@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1594011648 source:c:\users\anggui\desktop\will\nearest-neighbour-search\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1594011345 c:\users\anggui\desktop\will\nearest-neighbour-search\resource.h
+
+1594011887 source:c:\users\anggui\desktop\will\nearest-neighbour-search\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<math.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"Punto.h"
+	"KDTree.h"
+
+1593997086 c:\users\anggui\desktop\will\nearest-neighbour-search\punto.h
+
+1594013266 c:\users\anggui\desktop\will\nearest-neighbour-search\kdtree.h
+	<math.h>
+	"Punto.h"
+	"Nodo.h"
+
+1593997442 c:\users\anggui\desktop\will\nearest-neighbour-search\nodo.h
+	"Punto.h"
+
