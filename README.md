@@ -9,3 +9,8 @@ El algoritmo busca el vecino mas cercano de un punto tomado en la posicion actua
 ### UTILIZACION
 
 El algoritmo fue creado en el ide **CodeBlock** puede descargar p clonar el proyecto y abrirlo con normalidad.
+
+---
+
+**kdtree** - **nearest-neighbor-search**
+
